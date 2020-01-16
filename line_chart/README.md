@@ -1,1 +1,1 @@
-![](https://cdn-images-1.medium.com/max/800/1*JfKgSeaFveskENymGJP2bA.png)
+![](https://github.com/Jordon-Chen/python/blob/master/line_chart/line_chart.png?raw=true)
