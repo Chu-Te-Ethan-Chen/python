@@ -18,7 +18,7 @@ class HW04Window(QMainWindow):
     data = pd.DataFrame()
     def __init__(self):
         super().__init__()
-        loadUi("lint_chart_GUI.ui", self)
+        loadUi("lin_chart_GUI.ui", self)
         self.labelExcelFilename.setText("Select Excel File from Menu")
         self.actionMenuFile.triggered.connect(self.actionMenuFile_triggered)
         self.lineEditX.setText('12')
